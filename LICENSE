@@ -1,0 +1,15 @@
+The law texts in this repository are official texts of the Province of Santa Fe (Provincia de Santa Fe, Argentina), taken from
+Cámara de Diputadas y Diputados de la Provincia de Santa Fe (diputadossantafe.gov.ar), https://diputadossantafe.gov.ar/web/camara/constitucion-provincial/ (consulted 2026-10-30).
+
+They are legal norms (constitution, codes and laws) published by the provincial government for public consultation.
+Argentina's copyright law, Ley 11.723, contains no express exclusion for official texts; laws are public acts of
+government that bind everyone once officially published (Código Civil y Comercial de la Nación, art. 5: "Las leyes
+rigen después del octavo día de su publicación oficial, o desde el día que ellas determinen"). The source states no
+restriction on reuse. They are reproduced here with this attribution, following the official text.
+
+Changes made by Lexifina: each text was split into one Markdown file per article, one paragraph per line, with spacing
+normalised; the wording was not changed. The provincial government does not endorse this repository. This repository
+is not an official publication; the binding text is the one published in the Boletín Oficial de la Provincia de Santa Fe.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/

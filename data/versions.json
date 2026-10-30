@@ -1,0 +1,19 @@
+{
+ "country": "AR-S",
+ "acts": [
+  {
+   "slug": "constitucion",
+   "short": "Constitución",
+   "title": "Constitución de la Provincia Invencible de Santa Fe (Reforma 2025)",
+   "url": "https://diputadossantafe.gov.ar/web/camara/constitucion-provincial/",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 162,
+     "source_url": "https://diputadossantafe.gov.ar/web/files/upload/la-camara/constitucion_provincial.pdf",
+     "sha256": "c7268b9cb9f8acc6061e18fdd9c68eb38cac3428e23600551284a01e0dc86402"
+    }
+   ]
+  }
+ ]
+}

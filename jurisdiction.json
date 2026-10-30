@@ -1,0 +1,11 @@
+{
+  "path": "ar-s",
+  "code": "AR-S",
+  "name": "Santa Fe",
+  "level": "province",
+  "parent": "ar",
+  "repo": "https://github.com/lexifina/argentina-santa-fe-law",
+  "build": "built: constitution, codes and laws (1 norms, 1 versions) from https://diputadossantafe.gov.ar/web/camara/constitucion-provincial/",
+  "language": "es",
+  "sources": 1
+}
