@@ -14,6 +14,20 @@
      "sha256": "c7268b9cb9f8acc6061e18fdd9c68eb38cac3428e23600551284a01e0dc86402"
     }
    ]
+  },
+  {
+   "slug": "reglamento-interno",
+   "short": "Reglamento interno",
+   "title": "Reglamento interno de la Cámara de Diputadas y Diputados de Santa Fe (versión 1.4)",
+   "url": "https://diputadossantafe.gov.ar/web/camara/reglamento/",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://diputadossantafe.gov.ar/web/files/upload/la-camara/REGLAMENTO%20INTERNO%20completo%20modif%2004-2026.pdf",
+     "sha256": "8b8d38d9c2af9b3df0ef69be89594c2078bc562149a37b78c7c6bb7a040df906"
+    }
+   ]
   }
  ]
 }

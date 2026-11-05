@@ -5,6 +5,12 @@
     "constitucion"
    ],
    "sha256": "91da1a4bd568e48c4be795aec34f5eccf1152f15e4bea73adbf693764ae4fba2"
+  },
+  "20-q143-reglamento-interno.json": {
+   "acts": [
+    "reglamento-interno"
+   ],
+   "sha256": "60dc6c990621d7691d9dc5433489c81668480a03a0303e3dad1d4df7a150b96b"
   }
  },
  "schema": 1
