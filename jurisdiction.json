@@ -5,7 +5,7 @@
   "level": "province",
   "parent": "ar",
   "repo": "https://github.com/lexifina/argentina-santa-fe-law",
-  "build": "built: constitution, codes and laws (1 norms, 1 versions) from https://diputadossantafe.gov.ar/web/camara/constitucion-provincial/",
+  "build": "built: 2025 constitution and current chamber rulebook version 1.4 (2 records); province-wide statutes not yet included",
   "language": "es",
-  "sources": 1
+  "sources": 2
 }

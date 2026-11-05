@@ -8,15 +8,21 @@ The text is in Spanish, exactly as the source prints it.
 
 ## What this repository holds
 
-1 norm so far: the constitution first, then the codes, then laws, newest first, added in parts. 1 of them are shown as enacted; the rest are their current consolidated text only (see Dates).
+2 norms so far: the constitution first, then the codes, then laws, newest first, added in parts. 1 of them is shown as enacted; the rest are their current consolidated text only (see Dates).
 
 | Folder | Norm | History |
 | --- | --- | --- |
 | `constitucion/` | Constitución de la Provincia Invencible de Santa Fe (Reforma 2025) | as enacted, in force 11 September 2025 |
 
+| `reglamento-interno/` | Reglamento interno de la Cámara de Diputadas y Diputados de Santa Fe (version 1.4) | current text, oldest version included; source edition dated 6 April 2026; one complete-text unit |
+
+The rulebook includes the accompanying Assembly rules, contents and textual numerical tables in the official PDF.
+
 ## Source
 
 Cámara de Diputadas y Diputados de la Provincia de Santa Fe (diputadossantafe.gov.ar), <https://diputadossantafe.gov.ar/web/camara/constitucion-provincial/>. The Cámara publishes the "Ejemplar auténtico" of the Constitución de la Provincia Invencible de Santa Fe, Reforma 2025 (Edición 0, from the text sanctioned in plenary session on 10 September 2025), as a PDF with a text layer. The site footer reads "Todos los derechos reservados"; it states no terms for the legal texts themselves.
+
+The current rulebook version 1.4 is published at <https://diputadossantafe.gov.ar/web/camara/reglamento/> and dated 6 April 2026 by the source.
 
 ## Dates
 
