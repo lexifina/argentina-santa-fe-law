@@ -13,7 +13,6 @@ The text is in Spanish, exactly as the source prints it.
 | Folder | Norm | History |
 | --- | --- | --- |
 | `constitucion/` | Constitución de la Provincia Invencible de Santa Fe (Reforma 2025) | as enacted, in force 11 September 2025 |
-
 | `reglamento-interno/` | Reglamento interno de la Cámara de Diputadas y Diputados de Santa Fe (version 1.4) | current text, oldest version included; source edition dated 6 April 2026; one complete-text unit |
 
 The rulebook includes the accompanying Assembly rules, contents and textual numerical tables in the official PDF.
